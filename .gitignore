@@ -1,2 +1,4 @@
 .idea
+.jekyll-metadata
+.sass-cache
 vendor
